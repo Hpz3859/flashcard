@@ -1,0 +1,9 @@
+# old files
+/legacy
+/FlashcardApp-Build
+
+# test files
+/flashcard_app_apk
+
+# system files
+/.history
