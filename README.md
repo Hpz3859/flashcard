@@ -42,3 +42,7 @@
 本软件的所有数据都存储在本地的 flashcards.json 文件中，你可以手动备份此文件以确保数据安全。文件采用人类可读的 JSON 格式，方便高级用户进行查看或修改。
 
 感谢使用！希望这款工具能成为你学习路上的好帮手。
+
+## 许可证 (License)
+
+FlashcardApp © 2025 by Pingzhi Hu is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
